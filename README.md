@@ -1,4 +1,8 @@
 #  Digital Literacy Project
+This repository showcases my Digital Literacy Portfolio, including tasks on infographic design, digital profiles, coding platforms, email etiquette, and cybercrime awareness.
+
+## Digital Literacy Project 
+---
 
 ##  Student Details
 - **Name:** Mahi Gupta  
@@ -32,6 +36,8 @@ Built and updated professional profiles on platforms like GitHub and LinkedIn. T
 
 ###  Module 3: Platforms & Collaboration Tools
 Explored coding platforms and completed beginner-level challenges. Also created a Google Form quiz to understand collaborative tools and data collection.
+I created a Google form Quiz of Digital Literacy 
+https://docs.google.com/forms/d/e/1FAIpQLSe-VJk05ZS8UFO4dgBFwGiq78N9au1aO0V7qhvmXR1a4hyi2A/viewform
 
 ---
 
@@ -55,9 +61,30 @@ Studied a cybercrime case and created a prevention checklist. This helped in und
   
  ---
  
- ## Digital Literacy Quiz 
- https://docs.google.com/forms/d/e/1FAIpQLSe-VJk05ZS8UFO4dgBFwGiq78N9au1aO0V7qhvmXR1a4hyi2A/viewform
+## Tools & Platforms Used
+- GitHub
+- LinkedIn
+- Kaggle
+- HackerRank
+- Canva
+- Google Forms
 
  ---
+
+## Learning Outcomes 
+- Understood the basics of digital literacy
+- Learned to create a professional online profile
+- Improved email writing and communication skills
+- Gained knowledge of useful online tools
+- Became aware of cybercrime and online safety
+- Learned how to organize work using GitHub
+
+  ---
+
+## Conclusion
+
+Overall this project was great learning experience for me . This project has improved my understanding of digital tools and how to use     them in a professional way.
+
+  ---
  
 
