@@ -1,0 +1,2 @@
+## Description
+In this task , I created a infographic that explains the importance of staying safe and smart online. It describes digital literacy as using technology effectively and responsibly. It also highlights useful tools like Google Docs, YouTube, and Zoom for students. The poster includes tips for safe browsing, maintaining a professional online presence, and following proper email etiquette. Overall, it gives simple guidance for using the internet wisely.
