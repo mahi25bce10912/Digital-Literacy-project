@@ -2,7 +2,9 @@
 
 ##  Student Details
 - **Name:** Mahi Gupta  
-- **Registration Number:** 25BCE10912 
+- **Registration Number:** 25BCE10912
+- **Branch :** B.Tech CSE (Core)
+- **Year:** 2025-2029
 - **Course Code:** CSE0001  
 - **Course Title:** Digital Literacy  
 - **University:** VIT Bhopal University  
