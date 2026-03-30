@@ -1,0 +1,3 @@
+## Reflection
+
+I have registered at a coding platform (e.g., HackerRank) to try their coding challenges. I began with an easy problem like "Solve Me First." Completing these challenges has improved my ability to solve problems, deal with Input/Output, and develop code logic. I am now much more comfortable with problem-solving, coding, and preparing for technical interviews. Coding platforms offer a way to develop skills at an organized pace regarding learning new things. They provide a foundation for developing as a programmer and are helpful for developing logic, as well as providing a competitive coding environment, which can help you grow academically and build a successful career in computer science.
